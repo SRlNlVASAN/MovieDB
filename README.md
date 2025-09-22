@@ -1,5 +1,6 @@
 # MovieDB
-Using dimensional modeling, data warehouse design, ETL and advanced SQL for a Cinephile's Dream Database.
+Using data extraction and load in a DW with a star schema design and advanced SQL, we can build a Cinephile's Dream Database to enable efficient analysis.
+
 
 ### Dataset Overview
 
