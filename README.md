@@ -1,5 +1,5 @@
 # MovieDB
-To Build a database with dimensional modeling, data warehouse design, and advanced SQL for Cinephiles.
+Using dimensional modeling, data warehouse design, ETL and advanced SQL for a Cinephile's Dream Database.
 
 ### Dataset Overview
 
