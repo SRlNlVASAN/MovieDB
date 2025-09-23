@@ -4,7 +4,7 @@ Using data extraction and load in a DW with a star schema design and advanced SQ
 
 ### Dataset Overview
 
-This dataset, covering **6,820 movies from 1986 to 2016**, was created to analyze key trends in the movie industry. It focuses on questions like:
+This dataset, covering **6,820 movies from 1980 to 2020**, was created to analyze key trends in the movie industry. It focuses on questions like:
 
 * How has movie revenue changed over time?
 * How do factors like budget, user ratings, and runtime affect a movie's success?
@@ -32,46 +32,17 @@ Each movie entry includes the following information:
 * **budget**: Movie budget (0 if not available)
 * **gross**: Total revenue of the movie
 
-| Year |
-| :--- |
-| 1980 |
-| 1981 |
-| 1982 |
-| 1983 |
-| 1984 |
-| 1985 |
-| 1986 |
-| 1987 |
-| 1988 |
-| 1989 |
-| 1990 |
-| 1991 |
-| 1992 |
-| 1993 |
-| 1994 |
-| 1995 |
-| 1996 |
-| 1997 |
-| 1998 |
-| 1999 |
-| 2000 |
-| 2001 |
-| 2002 |
-| 2003 |
-| 2004 |
-| 2005 |
-| 2006 |
-| 2007 |
-| 2008 |
-| 2009 |
-| 2010 |
-| 2011 |
-| 2012 |
-| 2013 |
-| 2014 |
-| 2015 |
-| 2016 |
-| 2017 |
-| 2018 |
-| 2019 |
-| 2020 |
+### below are the year 
+
+| ---- | ---- | ---- | ---- | ---- |
+| 1980 | 1988 | 1996 | 2004 | 2012 |
+| 1981 | 1989 | 1997 | 2005 | 2013 |
+| 1982 | 1990 | 1998 | 2006 | 2014 |
+| 1983 | 1991 | 1999 | 2007 | 2015 |
+| 1984 | 1992 | 2000 | 2008 | 2016 |
+| 1985 | 1993 | 2001 | 2009 | 2018 |
+| 1986 | 1994 | 2002 | 2010 | 2019 |
+| 1987 | 1995 | 2003 | 2011 | 2020 |
+| ---- | ---- | ---- | ---- | ---- |
+
+
